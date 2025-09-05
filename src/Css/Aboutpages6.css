@@ -1,0 +1,28 @@
+.head{
+font-family: Poppins, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+color: rgb(255, 86, 0);
+}
+.text{
+font-family: "Josefin Sans", sans-serif;
+font-size: 24px;
+font-weight: 600;
+line-height: 38.4px;
+color: rgb(33, 32, 37);  
+}
+.title{
+font-family: "Josefin Sans", sans-serif;
+font-size: 25px;
+font-weight: 600;
+line-height: 35px;
+color: rgb(21, 24, 29);
+}
+.text2{
+font-family: Poppins, sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 30px;
+color: rgb(130, 130, 130);
+}

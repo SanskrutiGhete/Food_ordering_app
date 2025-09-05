@@ -1,0 +1,33 @@
+.HomeSection span{
+    font-size: 16px;
+    margin: 0px 0px 44px;
+    color: #ff5600;
+}
+.HomeSection h1{
+    font-size: 65px;
+    margin: 0px 0px 51px;
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.HomeSection p{
+    font-size: 16px;
+    margin: 0px 0px 30px;
+    color: #212025;
+}
+.HomeSection button{
+    font-size: 16px;
+    color: #212529;
+    background-color: #ff5600;
+    padding: 15px 43px;
+    border: none;
+
+}
+.HomeSection{
+    padding: 100px 0px 0px;
+
+}
+
+/*  
+body{
+     background-image: url('img1.webp');
+} */

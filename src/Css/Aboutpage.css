@@ -1,0 +1,8 @@
+#head{
+    background-image: url('img2.png');
+    background-repeat: no-repeat, repeat;
+    background-position: center; /* Center the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+    height: 80vh;
+    width: 100%;
+}
