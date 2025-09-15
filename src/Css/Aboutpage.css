@@ -1,5 +1,5 @@
 #head{
-    background-image: url('img2.png');
+    background-image: url('./img2.png');
     background-repeat: no-repeat, repeat;
     background-position: center; /* Center the image */
     background-size: cover; /* Resize the background image to cover the entire container */

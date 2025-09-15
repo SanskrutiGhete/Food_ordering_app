@@ -3,7 +3,7 @@ import '../Css/Aboutpages2.css'
 const Aboutpages2 = () => {
   return (
     <>
-        <div className='container-fluid'>
+        <div className='container-fluid mt-5'>
             <div className='row'>
                 <div className='col-6'>
                     <img className='img-fluid' src="img3.png" alt="" />

@@ -32,16 +32,16 @@ const Menupages1 = () => {
         {/* ---- Images Section ---- */}
         <div className="row g-4">
           <div className="col-md-3">
-            <img src="./img6.png" alt="Dish 1" className="" />
+            <img src="./img6.png" alt="Dish 1" className="img-fluid" style={{width:"500px", height:"300px"}} />
           </div>
           <div className="col-md-3">
-            <img src="./img7.png" alt="Dish 2" className=""  />
+            <img src="./img7.png" alt="Dish 2" className="img-fluid" style={{width:"500px", height:"300px"}}  />
           </div>
           <div className="col-md-3">
-            <img src="./img8.png" alt="Dish 3" className="" />
+            <img src="./img8.png" alt="Dish 3" className="img-fluid" style={{width:"500px", height:"300px"}} />
           </div>
           <div className="col-md-3">
-            <img src="./img9.png" alt="Dish 4" className="" />
+            <img src="./img9.png" alt="Dish 4" className="img-fluid" style={{width:"500px", height:"300px"}} />
           </div>
           
         </div>

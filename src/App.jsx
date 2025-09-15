@@ -7,6 +7,7 @@ import About from "./components/About";
 import Menu from "./components/Menu";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <Route path="/contact" element={<Contact/>} />
         </Routes>
       </div>
+      <Footer/>
     </Router>
   );
 }

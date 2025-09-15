@@ -8,7 +8,7 @@ const Aboutpages5 = () => {
             <div className="row align-items-center mt-5">
                 {/* Left Side - Image */}
                 <div className="col-md-6 text-center">
-                    <img src="img2.png" alt="Restaurant" className="img-fluid" />
+                    {/* <img src="img2.png" alt="Restaurant" className="img-fluid" /> */}
                 </div>
 
                 {/* Right Side - Text */}
